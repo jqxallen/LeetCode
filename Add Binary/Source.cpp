@@ -1,3 +1,15 @@
+/*
+ * Author: Qiang Jia
+ * Date: Dec 7, 2013
+ * Link: https://leetcode.com/problems/add-binary/
+ * Description:
+ *		Given two binary strings, return their sum (also a binary string).
+ *		For example,
+ *			a = "11"
+ *			b = "1"
+ *			Return "100".
+ */
+
 #include <iostream>
 #include <string>
 using namespace::std;
@@ -36,6 +48,4 @@ void main()
 {
 	Solution solution;
 	cout << solution.addBinary("11", "1") << endl;
-
-	system("pause");
 }
