@@ -1,3 +1,13 @@
+/*
+ * Author: Qiang Jia
+ * Date: Apr 19, 2015
+ * Link: https://leetcode.com/problems/sudoku-solver/
+ * Description:
+ * 		Write a program to solve a Sudoku puzzle by filling the empty cells.
+ * 		Empty cells are indicated by the character '.'.
+ * 		You may assume that there will be only one unique solution.
+ */
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -84,7 +94,7 @@ private:
 	vector<cell> cells;
 };
 
-int main()
+void main()
 {
 	string strs[] = { "53..7....", "6..195...", ".98....6.", "8...6...3", "4..8.3..1", "7...2...6", ".6....28.", "...419..5", "....8..79" };
 	vector<vector<char>> board;

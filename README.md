@@ -21,6 +21,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./Algorithms/Climbing Stairs/Source.cpp)|Easy|Apr 19, 2015|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./Algorithms/Add Binary/Source.cpp)|Easy|Dec 7, 2013|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[C++](./Algorithms/4Sum/Source.cpp)|Medium|Nov 13, 2013|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](./Algorithms/3Sum Closest/Source.cpp)|Medium|Apr 17, 2015|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[C++](./Algorithms/3Sum/Source.cpp)|Medium|Nov 1, 2013|
