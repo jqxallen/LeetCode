@@ -1,3 +1,21 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 18, 2013
+ * Link: https://leetcode.com/problems/binary-tree-inorder-traversal/
+ * Description:
+ * 		Given a binary tree, return the inorder traversal of its nodes' values.
+ * 		For example:
+ * 			Given binary tree {1,#,2,3},
+ *		    1
+ *		     \
+ *		      2
+ *		     /
+ *		    3
+ * 			return [1,3,2].
+ *		Note:
+ *			Recursive solution is trivial, could you do it iteratively?
+ */
+
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -46,11 +64,7 @@ public:
 void main()
 {
 	TreeNode *root = new TreeNode(1);
-
 	Solution solution;
 	vector<int> coll = solution.inorderTraversal(root);
-
 	copy(coll.cbegin(), coll.cend(), ostream_iterator<int>(cout, "\n"));
-
-	system("pause");
 }
