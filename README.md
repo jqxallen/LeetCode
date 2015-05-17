@@ -6,6 +6,7 @@ LeetCode
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](./Algorithms/Add and Search Word - Data structure design/Source.cpp)|Medium|May 16, 2015|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](./Algorithms/Course Schedule II/Source.cpp)|Medium|May 17, 2015|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](./Algorithms/Binary Search Tree Iterator/Source.cpp)|Medium|Apr 13, 2015|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](./Algorithms/Word Break II/Source.cpp)|Hard|Nov 1, 2013|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./Algorithms/Word Break/Source.cpp)|Medium|Nov 1, 2013|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./Algorithms/Best Time to Buy and Sell Stock/Source.cpp)|Medium|Nov 14, 2013|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./Algorithms/Balanced Binary Tree/Source.cpp)|Easy|Nov 6, 2013|
