@@ -1,3 +1,14 @@
+/*
+ * Author: Qiang Jia
+ * Date: Apr 19, 2015
+ * Link: https://leetcode.com/problems/valid-sudoku/
+ * Description:
+ *		Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules (http://sudoku.com.au/TheRules.aspx).
+ *		The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+ *		Note:
+ *			A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
+ */
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -42,7 +53,7 @@ public:
 	}
 };
 
-int main()
+void main()
 {
 	string arr[] = { "..5.....6", "....14...", ".........", ".....92..", "5....2...", ".......3.", "...54....", "3.....42.", "...27.6.." };
 	vector<vector<char>> board;
