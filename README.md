@@ -25,6 +25,7 @@ LeetCode
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./Algorithms/Binary Tree Inorder Traversal/Source.cpp)|Medium|Nov 18, 2013|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./Algorithms/Word Search/Source.cpp)|Medium|Nov 22, 2013|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./Algorithms/Climbing Stairs/Source.cpp)|Easy|Apr 19, 2015|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](./Algorithms/Text Justification/Source.cpp)|Hard|Dec 7, 2013|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./Algorithms/Add Binary/Source.cpp)|Easy|Dec 7, 2013|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
