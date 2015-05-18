@@ -1,3 +1,11 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 21, 2013
+ * Link: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+ * Description:
+ *		Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
+ */
+
 #include <iostream>
 #include <vector>
 using namespace::std;
