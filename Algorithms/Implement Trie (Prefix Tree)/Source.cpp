@@ -1,3 +1,13 @@
+/*
+ * Author: Qiang Jia
+ * Date: May 10, 2015
+ * Link: https://leetcode.com/problems/implement-trie-prefix-tree/
+ * Description:
+ *		Implement a trie with insert, search, and startsWith methods.
+ *		Note:
+ *			You may assume that all inputs are consist of lowercase letters a-z.
+ */
+
 #include <iostream>
 #include <string>
 #include <algorithm>
