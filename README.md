@@ -37,6 +37,7 @@ LeetCode
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./Algorithms/Unique Binary Search Trees/Source.cpp)|Medium|Dec 5, 2013|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./Algorithms/Binary Tree Inorder Traversal/Source.cpp)|Medium|Nov 18, 2013|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./Algorithms/Word Search/Source.cpp)|Medium|Nov 22, 2013|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./Algorithms/Subsets/Source.cpp)|Medium|Nov 6, 2013|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./Algorithms/Search a 2D Matrix/Source.cpp)|Medium|Nov 22, 2013|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./Algorithms/Climbing Stairs/Source.cpp)|Easy|Apr 19, 2015|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./Algorithms/Sqrt(x)/Source.cpp)|Medium|Nov 6, 2013|
