@@ -46,6 +46,7 @@ LeetCode
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](./Algorithms/Text Justification/Source.cpp)|Hard|Dec 7, 2013|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./Algorithms/Add Binary/Source.cpp)|Easy|Dec 7, 2013|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./Algorithms/First Missing Positive/Source.cpp)|Hard|Dec 11, 2013|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./Algorithms/Valid Sudoku/Source.cpp)|Easy|Apr 19, 2015|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./Algorithms/Swap Nodes in Pairs/Source.cpp)|Medium|Nov 21, 2013|
