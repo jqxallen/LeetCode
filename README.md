@@ -48,6 +48,7 @@ LeetCode
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./Algorithms/Sqrt(x)/Source.cpp)|Medium|Nov 6, 2013|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](./Algorithms/Text Justification/Source.cpp)|Hard|Dec 7, 2013|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./Algorithms/Add Binary/Source.cpp)|Easy|Dec 7, 2013|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Algorithms/Unique Paths/Source.cpp)|Medium|Nov 14, 2013|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./Algorithms/First Missing Positive/Source.cpp)|Hard|Dec 11, 2013|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
