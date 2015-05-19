@@ -52,6 +52,7 @@ LeetCode
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Algorithms/Unique Paths/Source.cpp)|Medium|Nov 14, 2013|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./Algorithms/Jump Game/Source.cpp)|Medium|Apr 15, 2015|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./Algorithms/Jump Game II/Source.cpp)|Hard|Apr 15, 2015|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./Algorithms/First Missing Positive/Source.cpp)|Hard|Dec 11, 2013|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./Algorithms/Valid Sudoku/Source.cpp)|Easy|Apr 19, 2015|
