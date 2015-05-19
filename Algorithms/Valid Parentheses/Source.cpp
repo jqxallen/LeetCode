@@ -1,3 +1,12 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 14, 2013
+ * Link: https://leetcode.com/problems/valid-parentheses/
+ * Description:
+ *		Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+ *		The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
+ */
+
 #include <stack>
 #include <string>
 using namespace::std;
@@ -15,8 +24,8 @@ public:
 			if (s[i] == '(' || s[i] == '[' || s[i] == '{')
 				stk.push(s[i]);
 			else if (!stk.empty() && (
-				(s[i] == ')' && stk.top() == '(') || 
-				(s[i] == ']' && stk.top() == '[') || 
+				(s[i] == ')' && stk.top() == '(') ||
+				(s[i] == ']' && stk.top() == '[') ||
 				(s[i] == '}' && stk.top() == '{'))) {
 				stk.pop();
 			}
