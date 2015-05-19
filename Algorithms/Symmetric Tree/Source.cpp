@@ -1,4 +1,27 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 21, 2013
+ * Link: https://leetcode.com/problems/symmetric-tree/
+ * Description:
+ *		Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).
+ *		For example, this binary tree is symmetric:
+ *			    1
+ *			   / \
+ *			  2   2
+ *			 / \ / \
+ *			3  4 4  3
+ *		But the following is not:
+ *			    1
+ *			   / \
+ *			  2   2
+ *			   \   \
+ *			   3    3
+ *		Note:
+ *			Bonus points if you could solve it both recursively and iteratively.
+ */
+
 #include <iostream>
+using namespace::std;
 
 struct TreeNode {
 	int val;
@@ -22,8 +45,8 @@ public:
 		if (!left && !right) return 1;
 		if (left && right)
 			return (left->val == right->val) &&
-				this->is_symmetric(left->left, right->right) &&
-				this->is_symmetric(left->right, right->left);
+			this->is_symmetric(left->left, right->right) &&
+			this->is_symmetric(left->right, right->left);
 		return 0;
 	}
 	bool isSymmetric(TreeNode *root) {
