@@ -1,4 +1,13 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 13, 2013
+ * Link: https://leetcode.com/problems/insertion-sort-list/
+ * Description:
+ *		Sort a linked list using insertion sort.
+ */
+
 #include <iostream>
+using namespace::std;
 
 struct ListNode {
 	int val;
