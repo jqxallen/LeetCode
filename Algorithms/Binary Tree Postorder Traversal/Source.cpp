@@ -1,3 +1,21 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 8, 2013
+ * Link: https://leetcode.com/problems/binary-tree-postorder-traversal/
+ * Description:
+ *		Given a binary tree, return the postorder traversal of its nodes' values.
+ *		For example:
+ *			Given binary tree {1,#,2,3},
+ *			   1
+ *			    \
+ *			     2
+ *			    /
+ *			   3
+ *			return [3,2,1].
+ *		Note:
+ *			Recursive solution is trivial, could you do it iteratively?
+ */
+
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -21,12 +39,11 @@ struct TreeNode {
  */
 class Solution {
 public:
-    vector<int> postorderTraversal(TreeNode *root) {
-        // IMPORTANT: Please reset any member data you declared, as
-        // the same Solution instance will be reused for each test case.
-        vector<int> coll;
+	vector<int> postorderTraversal(TreeNode *root) {
+		// IMPORTANT: Please reset any member data you declared, as
+		// the same Solution instance will be reused for each test case.
+		vector<int> coll;
 		if (!root) return coll;
-
 		stack<pair<TreeNode*, bool>> s;
 		s.push(make_pair(root, 1));
 		if (root->right) s.push(make_pair(root->right, 0));
@@ -37,13 +54,13 @@ public:
 			if ((!p.first->left && !p.first->right) || p.second) {
 				coll.push_back(p.first->val);
 				s.pop();
-			} else {
+			}
+			else {
 				s.top().second = 1;
 				if (p.first->right) s.push(make_pair(p.first->right, 0));
 				if (p.first->left) s.push(make_pair(p.first->left, 0));
-			}			
+			}
 		}
-
 		return coll;
-    }
+	}
 };
