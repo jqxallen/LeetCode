@@ -49,6 +49,7 @@ LeetCode
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](./Algorithms/Text Justification/Source.cpp)|Hard|Dec 7, 2013|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./Algorithms/Add Binary/Source.cpp)|Easy|Dec 7, 2013|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Algorithms/Unique Paths/Source.cpp)|Medium|Nov 14, 2013|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./Algorithms/Jump Game/Source.cpp)|Medium|Apr 15, 2015|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./Algorithms/First Missing Positive/Source.cpp)|Hard|Dec 11, 2013|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
