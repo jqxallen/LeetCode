@@ -19,6 +19,7 @@ LeetCode
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./Algorithms/Find Peak Element/Source.cpp)|Medium|Apr 14, 2015|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[C++](./Algorithms/Word Break II/Source.cpp)|Hard|Nov 1, 2013|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./Algorithms/Word Break/Source.cpp)|Medium|Nov 1, 2013|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./Algorithms/Copy List with Random Pointer/Source.cpp)|Hard|Nov 1, 2013|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[C++](./Algorithms/Clone Graph/Source.cpp)|Medium|Apr 23, 2015|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./Algorithms/Best Time to Buy and Sell Stock/Source.cpp)|Medium|Nov 14, 2013|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./Algorithms/Pascal's Triangle II/Source.cpp)|Easy|Apr 19, 2015|

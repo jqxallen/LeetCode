@@ -1,4 +1,14 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 1, 2013
+ * Link: https://leetcode.com/problems/copy-list-with-random-pointer/
+ * Description:
+ *		A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
+ *		Return a deep copy of the list.
+ */
+
 #include <iostream>
+using namespace::std;
 
 struct RandomListNode {
 	int label;
@@ -16,9 +26,9 @@ struct RandomListNode {
  */
 class Solution {
 public:
-    RandomListNode *copyRandomList(RandomListNode *head) {
-        // IMPORTANT: Please reset any member data you declared, as
-        // the same Solution instance will be reused for each test case.
+	RandomListNode *copyRandomList(RandomListNode *head) {
+		// IMPORTANT: Please reset any member data you declared, as
+		// the same Solution instance will be reused for each test case.
 		if (!head) return NULL;
 		/* make new copied node */
 		RandomListNode * node = head;
@@ -46,5 +56,5 @@ public:
 			node = node->next;
 		}
 		return new_head;
-    }
+	}
 };
