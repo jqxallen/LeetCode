@@ -1,3 +1,12 @@
+/*
+ * Author: Qiang Jia
+ * Date: Apr 24, 2015
+ * Link: https://leetcode.com/problems/roman-to-integer/
+ * Description:
+ *		Given a roman numeral, convert it to an integer.
+ *		Input is guaranteed to be within the range from 1 to 3999.
+ */
+
 #include <iostream>
 #include <string>
 #include <unordered_map>
@@ -30,7 +39,7 @@ public:
 	}
 };
 
-int main()
+void main()
 {
 	Solution solution;
 	cout << (solution.romanToInt("DCXXI") == 621) << endl;
