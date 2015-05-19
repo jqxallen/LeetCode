@@ -1,3 +1,34 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 14, 2013
+ * Link: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+ * Description:
+ *		Given a binary tree
+ *		    struct TreeLinkNode {
+ *		      TreeLinkNode *left;
+ *		      TreeLinkNode *right;
+ *		      TreeLinkNode *next;
+ *		    }
+ *		Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+ *		Initially, all next pointers are set to NULL.
+ *		Note:
+ *			You may only use constant extra space.
+ *			You may assume that it is a perfect binary tree (ie, all leaves are at the same level, and every parent has two children).
+ *		For example,
+ *			Given the following perfect binary tree,
+ *			         1
+ *			       /  \
+ *			      2    3
+ *			     / \  / \
+ *			    4  5  6  7
+ *			After calling your function, the tree should look like:
+ *			         1 -> NULL
+ *			       /  \
+ *			      2 -> 3 -> NULL
+ *			     / \  / \
+ *			    4->5->6->7 -> NULL
+ */
+
 #include <iostream>
 #include <queue>
 using namespace::std;
@@ -22,12 +53,10 @@ public:
 		// IMPORTANT: Please reset any member data you declared, as
 		// the same Solution instance will be reused for each test case.
 		if (!root) return;
-
 		queue<TreeLinkNode*> coll;
 		coll.push(root);
 		int counter = 1, tmp_counter = 0;
 		TreeLinkNode *prev = NULL, *curr = NULL;
-
 		while (!coll.empty()) {
 			tmp_counter = 0;
 			prev = NULL;
@@ -61,9 +90,6 @@ void main()
 	two->right = five;
 	three->left = six;
 	three->right = seven;
-
 	Solution solution;
 	solution.connect(root);
-
-	system("pause");
 }

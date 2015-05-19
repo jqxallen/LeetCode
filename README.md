@@ -27,6 +27,7 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./Algorithms/Best Time to Buy and Sell Stock/Source.cpp)|Medium|Nov 14, 2013|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C++](./Algorithms/Pascal's Triangle II/Source.cpp)|Easy|Apr 19, 2015|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./Algorithms/Pascal's Triangle/Source.cpp)|Easy|Apr 19, 2015|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./Algorithms/Populating Next Right Pointers in Each Node/Source.cpp)|Medium|Nov 14, 2013|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./Algorithms/Flatten Binary Tree to Linked List/Source.cpp)|Medium|Nov 22, 2013|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./Algorithms/Balanced Binary Tree/Source.cpp)|Easy|Nov 6, 2013|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./Algorithms/Convert Sorted Array to Binary Search Tree/Source.cpp)|Medium|Nov 21, 2013|
