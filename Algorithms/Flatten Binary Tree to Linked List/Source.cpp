@@ -1,3 +1,32 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 22, 2013
+ * Link: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+ * Description:
+ *		Given a binary tree, flatten it to a linked list in-place.
+ *		For example,
+ *			Given
+ *			         1
+ *			        / \
+ *			       2   5
+ *			      / \   \
+ *			     3   4   6
+ *			The flattened tree should look like:
+ *			   1
+ *			    \
+ *			     2
+ *			      \
+ *			       3
+ *			        \
+ *			         4
+ *			          \
+ *			           5
+ *			            \
+ *			             6
+ *		Hints:
+ *			If you notice carefully in the flattened tree, each node's right child points to the next node of a pre-order traversal.
+ */
+
 #include <iostream>
 using namespace::std;
 
@@ -58,11 +87,8 @@ void main()
 	one->left = two, one->right = five;
 	two->left = three, two->right = four;
 	five->right = six;
-
 	Solution solution;
 	solution.print(one);
 	solution.flatten(one);
 	solution.print(one);
-
-	system("pause");
 }
