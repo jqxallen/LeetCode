@@ -8,6 +8,7 @@ LeetCode
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./Algorithms/Implement Trie (Prefix Tree)/Source.cpp)|Medium|May 10, 2015|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./Algorithms/Course Schedule/Source.cpp)|Medium|May 14, 2015|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./Algorithms/Reverse Linked List/Source.cpp)|Easy|May 6, 2015|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./Algorithms/Isomorphic Strings/Source.cpp)|Easy|May 6, 2015|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](./Algorithms/Count Primes/Source.cpp)|Easy|Apr 28, 2015|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./Algorithms/Happy Number/Source.cpp)|Easy|Apr 23, 2015|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](./Algorithms/Bitwise AND of Numbers Range/Source.cpp)|Medium|Apr 17, 2015|
