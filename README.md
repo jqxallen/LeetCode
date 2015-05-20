@@ -46,6 +46,7 @@ LeetCode
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./Algorithms/Balanced Binary Tree/Source.cpp)|Easy|Nov 6, 2013|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./Algorithms/Convert Sorted Array to Binary Search Tree/Source.cpp)|Medium|Nov 21, 2013|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[C++](./Algorithms/Binary Tree Level Order Traversal II/Source.cpp)|Easy|Nov 16, 2013|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C++](./Algorithms/Maximum Depth of Binary Tree/Source.cpp)|Easy|Nov 17, 2013|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](./Algorithms/Binary Tree Zigzag Level Order Traversal/Source.cpp)|Medium|Nov 16, 2013|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./Algorithms/Binary Tree Level Order Traversal/Source.cpp)|Easy|Nov 16, 2013|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C++](./Algorithms/Symmetric Tree/Source.cpp)|Easy|Nov 21, 2013|

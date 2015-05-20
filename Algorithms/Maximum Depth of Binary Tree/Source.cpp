@@ -1,3 +1,12 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 17, 2013
+ * Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+ * Description:
+ *		Given a binary tree, find its maximum depth.
+ *		The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+ */
+
 #include <iostream>
 #include <algorithm>
 using namespace::std;
