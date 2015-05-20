@@ -64,6 +64,7 @@ LeetCode
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./Algorithms/Sudoku Solver/Source.cpp)|Hard|Apr 19, 2015|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./Algorithms/Valid Sudoku/Source.cpp)|Easy|Apr 19, 2015|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/Search Insert Position/Source.cpp)|Medium|Nov 22, 2013|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./Algorithms/Remove Duplicates from Sorted Array/Source.cpp)|Easy|Nov 13, 2013|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./Algorithms/Swap Nodes in Pairs/Source.cpp)|Medium|Nov 21, 2013|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./Algorithms/Generate Parentheses/Source.cpp)|Medium|Nov 7, 2013|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./Algorithms/Merge Two Sorted Lists/Source.cpp)|Easy|Nov 16, 2013|
