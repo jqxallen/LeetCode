@@ -1,3 +1,14 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 23, 2013
+ * Link: https://leetcode.com/problems/rotate-image/
+ * Description:
+ *		You are given an n x n 2D matrix representing an image.
+ *		Rotate the image by 90 degrees (clockwise).
+ *		Follow up:
+ *			Could you do this in-place?
+ */
+
 #include <vector>
 using namespace::std;
 
