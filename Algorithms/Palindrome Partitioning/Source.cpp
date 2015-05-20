@@ -1,3 +1,18 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 1, 2013
+ * Link: https://leetcode.com/problems/palindrome-partitioning/
+ * Description:
+ *		Given a string s, partition s such that every substring of the partition is a palindrome.
+ *		Return all possible palindrome partitioning of s.
+ *		For example, given s = "aab",
+ *			Return
+ *			[
+ *				["aa","b"],
+ *				["a","a","b"]
+ *			]
+ */
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -22,25 +37,22 @@ public:
 			}
 		}
 	}
-    vector<vector<string>> partition(string s) {
-        // IMPORTANT: Please reset any member data you declared, as
-        // the same Solution instance will be reused for each test case.
+	vector<vector<string>> partition(string s) {
+		// IMPORTANT: Please reset any member data you declared, as
+		// the same Solution instance will be reused for each test case.
 		vector<vector<string>> colls;
 		vector<string> coll;
 		partition_recur(s, colls, coll);
 		return colls;
-    }
+	}
 };
 
 void main()
 {
 	string s = "aab";
-
 	Solution solution;
-	for (auto &coll: solution.partition(s)) {
+	for (auto &coll : solution.partition(s)) {
 		copy(coll.cbegin(), coll.cend(), ostream_iterator<string>(cout, " "));
 		cout << endl;
 	}
-
-	system("pause");
 }
