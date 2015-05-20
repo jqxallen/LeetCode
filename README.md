@@ -46,6 +46,7 @@ LeetCode
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./Algorithms/Validate Binary Search Tree/Source.cpp)|Medium|Nov 8, 2013|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./Algorithms/Unique Binary Search Trees/Source.cpp)|Medium|Dec 5, 2013|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./Algorithms/Binary Tree Inorder Traversal/Source.cpp)|Medium|Nov 18, 2013|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./Algorithms/Reverse Linked List II/Source.cpp)|Medium|Nov 6, 2013|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./Algorithms/Remove Duplicates from Sorted List/Source.cpp)|Easy|Apr 18, 2015|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./Algorithms/Word Search/Source.cpp)|Medium|Nov 22, 2013|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./Algorithms/Subsets/Source.cpp)|Medium|Nov 6, 2013|
