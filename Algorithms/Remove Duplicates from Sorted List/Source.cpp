@@ -1,4 +1,16 @@
+/*
+ * Author: Qiang Jia
+ * Date: Apr 18, 2015
+ * Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+ * Description:
+ *		Given a sorted linked list, delete all duplicates such that each element appear only once.
+ *		For example,
+ *			Given 1->1->2, return 1->2.
+ *			Given 1->1->2->3->3, return 1->2->3.
+ */
+
 #include <iostream>
+using namespace::std;
 
 struct ListNode {
 	int val;
@@ -27,7 +39,8 @@ public:
 				delete node;
 				prevNode->next = tmp;
 				node = tmp;
-			} else {
+			}
+			else {
 				prevVal = node->val;
 				prevNode = node;
 				node = node->next;
