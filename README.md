@@ -91,5 +91,6 @@ LeetCode
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[C++](./Algorithms/3Sum/Source.cpp)|Medium|Nov 1, 2013|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./Algorithms/Roman to Integer/Source.cpp)|Easy|Apr 24, 2015|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[C++](./Algorithms/Integer to Roman/Source.cpp)|Medium|Apr 24, 2015|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./Algorithms/Reverse Integer/Source.cpp)|Easy|Apr 19, 2015|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./Algorithms/Add Two Numbers/Source.cpp)|Medium|Nov 1, 2013|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./Algorithms/Two Sum/Source.cpp)|Medium|Nov 1, 2013|
