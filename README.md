@@ -79,6 +79,7 @@ LeetCode
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./Algorithms/Sqrt(x)/Source.cpp)|Medium|Nov 6, 2013|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)|[C++](./Algorithms/Text Justification/Source.cpp)|Hard|Dec 7, 2013|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./Algorithms/Add Binary/Source.cpp)|Easy|Dec 7, 2013|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./Algorithms/Plus One/Source.cpp)|Easy|Apr 14, 2015|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Algorithms/Unique Paths/Source.cpp)|Medium|Nov 14, 2013|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./Algorithms/Length of Last Word/Source.cpp)|Easy|Apr 19, 2015|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./Algorithms/Jump Game/Source.cpp)|Medium|Apr 15, 2015|
