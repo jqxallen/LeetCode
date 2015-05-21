@@ -85,6 +85,7 @@ LeetCode
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./Algorithms/Valid Sudoku/Source.cpp)|Easy|Apr 19, 2015|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./Algorithms/Search Insert Position/Source.cpp)|Medium|Nov 22, 2013|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[C++](./Algorithms/Search for a Range/Source.cpp)|Medium|Dec 11, 2013|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./Algorithms/Remove Element/Source.cpp)|Easy|Nov 14, 2013|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./Algorithms/Remove Duplicates from Sorted Array/Source.cpp)|Easy|Nov 13, 2013|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./Algorithms/Swap Nodes in Pairs/Source.cpp)|Medium|Nov 21, 2013|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./Algorithms/Generate Parentheses/Source.cpp)|Medium|Nov 7, 2013|
