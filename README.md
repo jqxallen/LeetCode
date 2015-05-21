@@ -23,6 +23,7 @@ LeetCode
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](./Algorithms/Binary Search Tree Iterator/Source.cpp)|Medium|Apr 13, 2015|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C++](./Algorithms/Factorial Trailing Zeroes/Source.cpp)|Easy|Apr 13, 2015|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./Algorithms/Excel Sheet Column Number/Source.cpp)|Easy|Apr 17, 2015|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./Algorithms/Majority Element/Source.cpp)|Easy|Apr 19, 2015|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](./Algorithms/Excel Sheet Column Title/Source.cpp)|Easy|Apr 17, 2015|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C++](./Algorithms/Compare Version Numbers/Source.cpp)|Easy|Apr 24, 2015|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[C++](./Algorithms/Maximum Gap/Source.cpp)|Hard|Apr 13, 2015|
