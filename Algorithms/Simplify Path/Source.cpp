@@ -1,3 +1,19 @@
+/*
+ * Author: Qiang Jia
+ * Date: Dec 7, 2013
+ * Link: https://leetcode.com/problems/simplify-path/
+ * Description:
+ *		Given an absolute path for a file (Unix-style), simplify it.
+ *		For example,
+ *			path = "/home/", => "/home"
+ *			path = "/a/./b/../../c/", => "/c"
+ *		Corner Cases:
+ *			1. Did you consider the case where path = "/../"?
+ *				In this case, you should return "/".
+ *			2. Another corner case is the path might contain multiple slashes '/' together, such as "/home//foo/".
+ *				In this case, you should ignore redundant slashes and return "/home/foo".
+ */
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -32,9 +48,6 @@ public:
 void main()
 {
 	string path = "/...";
-
 	Solution solution;
 	cout << solution.simplifyPath(path) << endl;
-
-	system("pause");
 }
