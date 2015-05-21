@@ -27,6 +27,7 @@ LeetCode
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[C++](./Algorithms/Maximum Gap/Source.cpp)|Hard|Apr 13, 2015|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./Algorithms/Find Peak Element/Source.cpp)|Medium|Apr 14, 2015|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./Algorithms/Intersection of Two Linked Lists/Source.cpp)|Easy|Apr 19, 2015|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C++](./Algorithms/Min Stack/Source.cpp)|Easy|Apr 14, 2015|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C++](./Algorithms/Reverse Words in a String/Source.cpp)|Medium|Apr 24, 2015|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./Algorithms/Evaluate Reverse Polish Notation/Source.cpp)|Medium|Dec 7, 2013|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./Algorithms/Insertion Sort List/Source.cpp)|Medium|Nov 13, 2013|
