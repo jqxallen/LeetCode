@@ -18,6 +18,7 @@ LeetCode
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./Algorithms/House Robber/Source.cpp)|Easy|Apr 13, 2015|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./Algorithms/Number of 1 Bits/Source.cpp)|Easy|Mar 18, 2015|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./Algorithms/Reverse Bits/Source.cpp)|Easy|Mar 18, 2015|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C++](./Algorithms/Rotate Array/Source.cpp)|Easy|Mar 18, 2015|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[C++](./Algorithms/Repeated DNA Sequences/Source.cpp)|Medium|Apr 9, 2015|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[C++](./Algorithms/Largest Number/Source.cpp)|Medium|Apr 13, 2015|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[C++](./Algorithms/Dungeon Game/Source.cpp)|Hard|Apr 7, 2015|
