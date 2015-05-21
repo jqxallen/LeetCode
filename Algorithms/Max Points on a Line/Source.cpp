@@ -1,3 +1,11 @@
+/*
+ * Author: Qiang Jia
+ * Date: Dec 5, 2013
+ * Link: https://leetcode.com/problems/max-points-on-a-line/
+ * Description:
+ *		Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
+ */
+
 #include <vector>
 #include <map>
 using namespace::std;
@@ -30,7 +38,7 @@ public:
 			int same_counter = 1;
 			for (auto j = points.cbegin(); j != points.cend(); ++j) {
 				if (j == i) continue;
-				if (j->x == i->x && j->y == i->y) 
+				if (j->x == i->x && j->y == i->y)
 					same_counter++;
 				else {
 					double slope = INT_MAX;
@@ -41,8 +49,8 @@ public:
 			}
 			if (same_counter > max_points) max_points = same_counter;
 			for (auto p : counter)
-				if (p.second + same_counter > max_points)
-					max_points = p.second + same_counter;
+			if (p.second + same_counter > max_points)
+				max_points = p.second + same_counter;
 		}
 		return max_points;
 	}
