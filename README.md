@@ -48,6 +48,7 @@ LeetCode
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./Algorithms/Pascal's Triangle/Source.cpp)|Easy|Apr 19, 2015|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C++](./Algorithms/Populating Next Right Pointers in Each Node/Source.cpp)|Medium|Nov 14, 2013|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[C++](./Algorithms/Flatten Binary Tree to Linked List/Source.cpp)|Medium|Nov 22, 2013|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./Algorithms/Path Sum/Source.cpp)|Easy|Nov 6, 2013|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C++](./Algorithms/Minimum Depth of Binary Tree/Source.cpp)|Easy|Nov 6, 2013|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C++](./Algorithms/Balanced Binary Tree/Source.cpp)|Easy|Nov 6, 2013|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./Algorithms/Convert Sorted Array to Binary Search Tree/Source.cpp)|Medium|Nov 21, 2013|
