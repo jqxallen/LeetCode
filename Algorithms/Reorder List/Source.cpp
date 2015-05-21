@@ -1,3 +1,15 @@
+/*
+ * Author: Qiang Jia
+ * Date: Nov 6, 2013
+ * Link: https://leetcode.com/problems/reorder-list/
+ * Description:
+ *		Given a singly linked list L: L0 -> L1 -> ... -> Ln-1 -> Ln,
+ *		reorder it to: L0 -> Ln -> L1 -> Ln-1 -> L2 -> Ln-2 -> ...
+ *		You must do this in-place without altering the nodes' values.
+ *		For example,
+ *			Given {1,2,3,4}, reorder it to {1,4,2,3}.
+ */
+
 #include <iostream>
 using namespace::std;
 
@@ -39,11 +51,10 @@ public:
 		}
 		return prev;
 	}
-    void reorderList(ListNode *head) {
-        // IMPORTANT: Please reset any member data you declared, as
-        // the same Solution instance will be reused for each test case.
+	void reorderList(ListNode *head) {
+		// IMPORTANT: Please reset any member data you declared, as
+		// the same Solution instance will be reused for each test case.
 		if (!head) return;
-
 		ListNode *tail = head, *node = head, *tmp1 = NULL, *tmp2 = NULL;
 		int counter = 0;
 		while (node) {
@@ -51,9 +62,7 @@ public:
 				tail = tail->next;
 			node = node->next;
 		}
-
 		tail = this->reverse(tail);
-
 		node = head;
 		while (tail) {
 			tmp1 = node->next;
@@ -64,7 +73,7 @@ public:
 			node = tmp1;
 			tail = tmp2;
 		}
-    }
+	}
 };
 
 void main()
@@ -78,13 +87,8 @@ void main()
 	two->next = three;
 	three->next = four;
 	four->next = five;
-
 	print(head);
-
 	Solution solution;
 	solution.reorderList(head);
-
 	print(head);
-
-	system("pause");
 }
