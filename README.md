@@ -113,3 +113,8 @@ LeetCode
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./Algorithms/Reverse Integer/Source.cpp)|Easy|Apr 19, 2015|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./Algorithms/Add Two Numbers/Source.cpp)|Medium|Nov 1, 2013|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./Algorithms/Two Sum/Source.cpp)|Medium|Nov 1, 2013|
+========
+###LeetCode Database
+| # | Title | Solution | Difficulty | Date |
+|---| ----- | -------- | ---------- | ---- |
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](./Database/Rising Temperature/Source.sql)|Easy|May 23, 2015|
