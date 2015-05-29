@@ -3,6 +3,7 @@ LeetCode
 ###LeetCode Algorithms
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](./Algorithms/Combination Sum III/Source.cpp)|Medium|May 29, 2015|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[C++](./Algorithms/Add and Search Word - Data structure design/Source.cpp)|Medium|May 16, 2015|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](./Algorithms/Course Schedule II/Source.cpp)|Medium|May 17, 2015|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./Algorithms/Implement Trie (Prefix Tree)/Source.cpp)|Medium|May 10, 2015|
