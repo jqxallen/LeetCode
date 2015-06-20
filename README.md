@@ -3,6 +3,7 @@ LeetCode
 ###LeetCode Algorithms
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./Algorithms/Contains Duplicate III/Source.cpp)|Medium|Jun 20, 2015|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./Algorithms/Contains Duplicate II/Source.cpp)|Easy|Jun 1, 2015|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./Algorithms/Contains Duplicate/Source.cpp)|Easy|May 31, 2015|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[C++](./Algorithms/Combination Sum III/Source.cpp)|Medium|May 29, 2015|
