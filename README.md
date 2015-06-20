@@ -3,6 +3,7 @@ LeetCode
 ###LeetCode Algorithms
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./Algorithms/Basic Calculator/Source.cpp)|Medium|Jun 20, 2015|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./Algorithms/Contains Duplicate III/Source.cpp)|Medium|Jun 20, 2015|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./Algorithms/Contains Duplicate II/Source.cpp)|Easy|Jun 1, 2015|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./Algorithms/Contains Duplicate/Source.cpp)|Easy|May 31, 2015|
