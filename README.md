@@ -7,6 +7,7 @@ LeetCode
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./Algorithms/Invert Binary Tree/Source.cpp)|Easy|Jun 20, 2015|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./Algorithms/Implement Stack using Queues/Source.cpp)|Medium|Jun 20, 2015|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./Algorithms/Basic Calculator/Source.cpp)|Medium|Jun 20, 2015|
+|223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[C++](./Algorithms/Rectangle Area/Source.cpp)|Easy|Jun 25, 2015|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./Algorithms/Contains Duplicate III/Source.cpp)|Medium|Jun 20, 2015|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./Algorithms/Contains Duplicate II/Source.cpp)|Easy|Jun 1, 2015|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./Algorithms/Contains Duplicate/Source.cpp)|Easy|May 31, 2015|
