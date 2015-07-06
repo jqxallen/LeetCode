@@ -3,6 +3,7 @@ LeetCode
 ###LeetCode Algorithms
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./Algorithms/Power of Two/Source.cpp)|Easy|Jul 6, 2015|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](./Algorithms/Majority Element II/Source.cpp)|Medium|Jul 4, 2015|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](./Algorithms/Summary Ranges/Source.cpp)|Easy|Jul 1, 2015|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./Algorithms/Basic Calculator II/Source.cpp)|Medium|Jun 24, 2015|
