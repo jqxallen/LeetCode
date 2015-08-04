@@ -3,6 +3,7 @@ LeetCode
 ###LeetCode Algorithms
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- | ---- |
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./Algorithms/Sliding Window Maximum/Source.cpp)|Hard|Aug 5, 2015|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./Algorithms/Implement Queue using Stacks/Source.cpp)|Easy|Jul 7, 2015|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./Algorithms/Power of Two/Source.cpp)|Easy|Jul 6, 2015|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](./Algorithms/Majority Element II/Source.cpp)|Medium|Jul 4, 2015|
