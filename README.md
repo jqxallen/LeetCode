@@ -107,6 +107,7 @@ LeetCode
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Algorithms/Unique Paths/Source.cpp)|Medium|Nov 14, 2013|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./Algorithms/Length of Last Word/Source.cpp)|Easy|Apr 19, 2015|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./Algorithms/Jump Game/Source.cpp)|Medium|Apr 15, 2015|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./Algorithms/N-Queens/Source.cpp)|Hard|Aug 5, 2015|
 |49|[Anagrams](https://leetcode.com/problems/anagrams/)|[C++](./Algorithms/Anagrams/Source.cpp)|Medium|Apr 17, 2015|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./Algorithms/Rotate Image/Source.cpp)|Medium|Nov 23, 2013|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./Algorithms/Jump Game II/Source.cpp)|Hard|Apr 15, 2015|
