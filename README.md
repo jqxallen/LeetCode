@@ -107,6 +107,7 @@ LeetCode
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[C++](./Algorithms/Plus One/Source.cpp)|Easy|Apr 14, 2015|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Algorithms/Unique Paths/Source.cpp)|Medium|Nov 14, 2013|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./Algorithms/Length of Last Word/Source.cpp)|Easy|Apr 19, 2015|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./Algorithms/Merge Intervals/Source.cpp)|Hard|Aug 20, 2015|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./Algorithms/Jump Game/Source.cpp)|Medium|Apr 15, 2015|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](./Algorithms/N-Queens II/Source.cpp)|Hard|Aug 5, 2015|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./Algorithms/N-Queens/Source.cpp)|Hard|Aug 5, 2015|
