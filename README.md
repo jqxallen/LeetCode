@@ -99,6 +99,7 @@ LeetCode
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](./Algorithms/Combinations/Source.cpp)|Medium|Nov 14, 2013|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./Algorithms/Search a 2D Matrix/Source.cpp)|Medium|Nov 22, 2013|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./Algorithms/Set Matrix Zeroes/Source.cpp)|Medium|Nov 14, 2013|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./Algorithms/Edit Distance/Source.cpp)|Hard|Sep 7, 2015|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](./Algorithms/Simplify Path/Source.cpp)|Medium|Dec 7, 2013|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./Algorithms/Climbing Stairs/Source.cpp)|Easy|Apr 19, 2015|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./Algorithms/Sqrt(x)/Source.cpp)|Medium|Nov 6, 2013|
