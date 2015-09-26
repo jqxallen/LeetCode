@@ -97,6 +97,7 @@ LeetCode
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./Algorithms/Word Search/Source.cpp)|Medium|Nov 22, 2013|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./Algorithms/Subsets/Source.cpp)|Medium|Nov 6, 2013|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](./Algorithms/Combinations/Source.cpp)|Medium|Nov 14, 2013|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./Algorithms/Minimum Window Substring/Source.cpp)|Hard|Sep 26, 2015|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./Algorithms/Search a 2D Matrix/Source.cpp)|Medium|Nov 22, 2013|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[C++](./Algorithms/Set Matrix Zeroes/Source.cpp)|Medium|Nov 14, 2013|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./Algorithms/Edit Distance/Source.cpp)|Hard|Sep 7, 2015|
